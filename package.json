@@ -25,7 +25,7 @@
         "node": ">= 0.10.0"
     },
     "scripts": {
-        "postinstall" : "npm install ./node_modules/grunt-grunticon/node_modules/svg-to-png --prefix ./node_modules/grunt-grunticon"
+        "postinstall" : "npm install ./node_modules/grunt-grunticon/node_modules/grunticon-lib/node_modules/svg-to-png --prefix ./node_modules/grunt-grunticon"
     },
     "dependencies": {
         "grunt-contrib-clean": "~0.6.0",
