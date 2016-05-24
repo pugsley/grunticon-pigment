@@ -32,7 +32,6 @@
         "grunt-svgmin": "~2.0.1",
         "grunt-text-replace": "~0.4.0"
     },
-    "bundledDependencies": ["grunt-contrib-clean", "grunt-contrib-copy", "grunt-grunticon", "grunt-dom-munger", "grunt-svgmin", "grunt-text-replace"],
     "keywords": [
         "gruntplugin"
     ]
